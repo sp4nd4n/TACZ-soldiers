@@ -18,7 +18,7 @@ Bored downloading and playing only TACZ mod for long? Experience battle with bru
 
 -Example:- /soldier spawn sniper 1
 
--You can also get spawn eggs of different NPCs creative inventory.
+-You can also get spawn eggs of different NPCs inside creative inventory.
 
 
 <p align="center"><ins><b>Spawn eggs</b></ins>
