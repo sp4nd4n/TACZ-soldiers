@@ -1,0 +1,10 @@
+{
+  "entity.taczsoldiers.soldier": "Soldier",
+  "item.taczsoldiers.spawn_rifleman": "Rifleman Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_sniper": "Sniper Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_gunner": "Machine Gunner Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_breacher": "Breacher Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_operator": "Special Ops Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_officer": "Officer Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_medic": "Medic Soldier Spawn Egg"
+}
