@@ -18,6 +18,7 @@ Roles:- rifleman, sniper, gunner, medic, officer, breacher, random, operator.
 
 Example:- /soldier spawn sniper 1
 
+
 <p align="center"><ins><b>Spawn eggs</b></ins>
   <img width="1678" height="481" alt="egg" src="https://github.com/user-attachments/assets/ffb20445-32c0-4daa-a954-cde757aa5d1d" />
 </p>
