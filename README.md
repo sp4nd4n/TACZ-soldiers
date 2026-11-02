@@ -12,7 +12,7 @@ Bored downloading and playing only TACZ mod for long? Experience battle with bru
 ---
 
 ## How to summon NPCs?
-- Write: /soldier spawn [role] [count].
+- Write:- /soldier spawn [role] [count].
 
 - Roles:- rifleman, sniper, gunner, medic, officer, breacher, random, operator.
 
