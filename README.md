@@ -20,7 +20,17 @@ Example:- /soldier spawn sniper 1
 
 ---
 
+<p align="center"><ins><b>Spawn eggs</b></ins>
+  <img width="1678" height="481" alt="egg" src="https://github.com/user-attachments/assets/ffb20445-32c0-4daa-a954-cde757aa5d1d" />
+</p>
+
+---
+
 Each soldier has their own gun and dress code as per their role.
+
+<p align="center">
+  <img width="1658" height="949" alt="HD Minecraft Cliffside Encounter" src="https://github.com/user-attachments/assets/48e2c9d7-7871-4277-adef-9f3cc2ad97f9" />
+</p>
 
 ---
 
