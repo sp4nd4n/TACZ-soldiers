@@ -12,20 +12,23 @@ Bored downloading and playing only TACZ mod for long? Experience battle with bru
 ---
 
 ## How to summon NPCs?
-Write: /soldier spawn [role] [count].
+-Write: /soldier spawn [role] [count].
 
-Roles:- rifleman, sniper, gunner, medic, officer, breacher, random, operator.
+-Roles:- rifleman, sniper, gunner, medic, officer, breacher, random, operator.
 
-Example:- /soldier spawn sniper 1
+-Example:- /soldier spawn sniper 1
+
+-You can also get spawn eggs of different NPCs creative inventory.
 
 
 <p align="center"><ins><b>Spawn eggs</b></ins>
-  <img width="1678" height="481" alt="egg" src="https://github.com/user-attachments/assets/ffb20445-32c0-4daa-a954-cde757aa5d1d" />
+  <img width="2051" height="389" alt="eggs" src="https://github.com/user-attachments/assets/5f81a16d-27a8-44fa-847b-d8f7a5beee61" />
 </p>
 
 ---
 
 Each soldier has their own gun and dress code as per their role.
+
 
 <p align="center">
   <img width="1658" height="949" alt="HD Minecraft Cliffside Encounter" src="https://github.com/user-attachments/assets/48e2c9d7-7871-4277-adef-9f3cc2ad97f9" />
