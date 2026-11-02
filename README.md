@@ -12,13 +12,13 @@ Bored downloading and playing only TACZ mod for long? Experience battle with bru
 ---
 
 ## How to summon NPCs?
--Write: /soldier spawn [role] [count].
+- Write: /soldier spawn [role] [count].
 
--Roles:- rifleman, sniper, gunner, medic, officer, breacher, random, operator.
+- Roles:- rifleman, sniper, gunner, medic, officer, breacher, random, operator.
 
--Example:- /soldier spawn sniper 1
+- Example:- /soldier spawn sniper 1
 
--You can also get spawn eggs of different NPCs inside creative inventory.
+- You can also get spawn eggs of different NPCs inside creative inventory.
 
 
 <p align="center"><ins><b>Spawn eggs</b></ins>
