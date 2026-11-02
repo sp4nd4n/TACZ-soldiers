@@ -1,5 +1,5 @@
 # TACZ-soldiers
-Bored downloading and playing only TACZ mod for a long? Experience battle with brutal NPCs using TACZ soldiers mod.
+Bored downloading and playing only TACZ mod for long? Experience battle with brutal NPCs using TACZ soldiers mod.
 
 ---
 
