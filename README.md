@@ -1,4 +1,12 @@
 # TACZ-soldiers
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MINECRAFT-1.20.1-62B47A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LOADER-FORGE-DFA86A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REQUIRES-TACZ%20MOD-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JAVA-17-ED8B00?style=for-the-badge">
+</p>
+
 Bored downloading and playing only TACZ mod for long? Experience battle with brutal NPCs using TACZ soldiers mod.
 
 ---
