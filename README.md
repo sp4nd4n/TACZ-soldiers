@@ -1,5 +1,7 @@
 # TACZ-soldiers
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/MINECRAFT-1.20.1-62B47A?style=for-the-badge">
   <img src="https://img.shields.io/badge/LOADER-FORGE-DFA86A?style=for-the-badge">
