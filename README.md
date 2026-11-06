@@ -14,8 +14,6 @@
 
 Bored downloading and playing only TACZ mod for long? Experience battle with brutal NPCs using TACZ soldiers mod.
 
----
-
 ## How to use?
 1. Download this mod from the <ins>**Releases**</ins> section.
 2. Download <ins>Forge 1.20.1</ins> in your minecraft launcher.
