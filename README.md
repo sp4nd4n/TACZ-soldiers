@@ -4,20 +4,19 @@
 
 Bored downloading and playing only TACZ mod for long? Experience battle with brutal NPCs using TACZ soldiers mod.
 
-## How to use?
-1. Download this mod from the <ins>**Releases**</ins> section.
-2. Download <ins>Forge 1.20.1</ins> in your minecraft launcher.
-3. Put this mod inside the <ins>mods</ins> folder and start the game.
-4. Create a new world and start enjoying!
+## How to install?
+- Download the jar file from the releases section.
+- Put the jar file inside the mods folder.
+- Start the game and enjoy!
 
 ## How to summon NPCs?
 - Write:- `/soldier spawn [role] [count]`
-
-- Roles:- rifleman, sniper, gunner, medic, officer, breacher, random, operator.
+ 
+Roles:- rifleman, sniper, gunner, medic, officer, breacher, rocketlauncher, operator.
 
 - Example:- `/soldier spawn sniper 1`
 
-- You can also get spawn eggs of different NPCs inside creative inventory.
+**You can also summon NPCs by spawn eggs, available inside creative inventory.**
 
 
 <p align="center"><ins><b>Spawn eggs</b></ins>
@@ -35,6 +34,11 @@ Each soldier has their own gun and dress code as per their role.
 This mod works with **any TACZ gun mod**.
 
 **Without TACZ mod, this mod wouldn't work!**
+
+## Latest features
+1. New NPC added- Rocket Launcher
+2. Now, inside a world, random military bases will be created with a confidential item inside it.
+3. Once the mod is loaded inside a world, the proper usage of the mod would be shown in the message box inside the game
 
 ---
 
