@@ -37,8 +37,9 @@ This mod works with **any TACZ gun mod**.
 
 ## Latest features
 1. New NPC added- Rocket Launcher
-2. Now, inside a world, random military bases will be created with a confidential item inside it.
-3. Once the mod is loaded inside a world, the proper usage of the mod would be shown in the message box inside the game
+2. Now, inside a world, random military bases will be created with a confidential item inside it
+3. NPCs can take cover and throw grenades at you
+4. Once the mod is loaded inside a world, the proper usage of the mod would be shown in the message box inside the game
 
 ---
 
